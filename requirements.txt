@@ -55,7 +55,7 @@ urllib3==1.24.1
 virtualenv==16.7.7
 virtualenv-clone==0.5.3
 wasabi==0.2.2
-Werkzeug==0.15.1
+Werkzeug==0.15.3
 wrapt==1.11.2
 ZConfig==3.5.0
 zdaemon==4.3
