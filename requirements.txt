@@ -51,7 +51,7 @@ thinc==7.0.8
 tqdm==4.36.1
 twilio==6.25.2
 typed-ast==1.4.0
-urllib3==1.24.1
+urllib3==1.26.5
 virtualenv==16.7.7
 virtualenv-clone==0.5.3
 wasabi==0.2.2
