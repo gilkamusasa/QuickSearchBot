@@ -33,7 +33,7 @@ Pint==0.9
 pipenv==2018.11.26
 plac==0.9.6
 preshed==2.0.1
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylint==2.4.1
 pymongo==3.9.0
 PySocks==1.7.1
